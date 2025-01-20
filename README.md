@@ -25,5 +25,5 @@
 * ~Markdown~
 
 ### Контакты для связи:
-№ тел.: +7 (999) 999 99 99
+№ тел.: +7 (999) 999 99 99  
 Мой сайт: [Мой сайт](https://sovereign-world1.github.io/Shakirov_Team/)
